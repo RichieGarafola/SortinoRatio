@@ -82,7 +82,7 @@ It’s always useful to look at performance metrics through time because they ar
 ![rolling spy returns](./Images/SPYRollingReturns.jpg)
 
 **Rolling AAPL returns**
-![rolling aapl returns](./Images/AAPLRollingReturns.jpg)
+![rolling aapl returns](./Images/AaplRollingReturns.jpg)
 
 Use a histogram to visualize the distribution of rolling Sortino ratios. 
 
