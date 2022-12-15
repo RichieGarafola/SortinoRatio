@@ -90,7 +90,7 @@ Use a histogram to visualize the distribution of rolling Sortino ratios.
 ![spy histogram](./Images/SPYReturnsHistogram.jpg)
 
 **AAPL historgram**
-![aapl histogram](./Images/AAPLReturnsHistogram.jpg)
+![aapl histogram](./Images/AaplReturnsHistogram.jpg)
 
 In the case of AAPL, there is a long tail of positive Sortino ratios.
 
